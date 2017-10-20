@@ -1,0 +1,20 @@
+{
+  "name": "rapidjstraining",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "base.js",
+  "dependencies": {
+    "traceur": "^0.0.111",
+    "es6-module-loader": "^0.17.11"
+  },
+  "devDependencies": {
+    "es6-module-loader": "^0.17.11",
+    "systemjs": "^0.20.19",
+    "traceur": "0.0.111"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
